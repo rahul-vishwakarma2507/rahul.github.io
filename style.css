@@ -1,0 +1,7 @@
+.background-image{
+    width: 100%;
+    background-image: url(image/backimg2.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
